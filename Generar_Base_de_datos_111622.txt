@@ -1,0 +1,5 @@
+-- METODOLOGÍA DE LA PROGRAMACIÓN ORIENTADA A OBJETOS --
+
+- Camilo Herradora
+- Diego García
+- Javier León
